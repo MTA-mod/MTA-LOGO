@@ -1,2 +1,2 @@
-# MTA-LOGO
-MTA logo
+# MTA 圖標封存檔
+只限使用於MTA相關內容
